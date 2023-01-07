@@ -23,7 +23,7 @@ are present in the array.And "abdab" is the longest
 string among them. So the ouput is "abdab".
  
 
-*/
+
 
 //User function Template for C++
 
@@ -58,3 +58,5 @@ public:
         return str;
     }
 };
+
+*/
