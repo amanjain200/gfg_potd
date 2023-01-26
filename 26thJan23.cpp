@@ -63,8 +63,8 @@ class Solution
             }
         }
         
-        sort(capital.begin(), capital.end(), cmp);
-        sort(small.begin(), small.end(), cmp);
+        //sort(capital.begin(), capital.end(), cmp);
+        //sort(small.begin(), small.end(), cmp);
         
         str = "";
         int cain = 0;
