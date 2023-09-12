@@ -38,7 +38,7 @@ Expected Time Complexity: O(sqrt(N)).
 Expected Auxiliary Space: O(sqrt(N)).
 
 Constraints:
-1 <= N <= 105
+1 <= N <= 1051
 */
 /*
 //{ Driver Code Starts
